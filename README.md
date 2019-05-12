@@ -62,4 +62,4 @@ Source code contains following files:
   The project is not licensed yet.
   
 ### Contributor(s):
-This project is developed by **Suman Michael** [(@sumanmichael)](www.github.com/sumanmichael/), B151537, Dept. of CSE, Rajiv Gandhi University of Knowledge technologies, Basar.
+This project is developed by **Suman Michael** [(@sumanmichael)](https://www.github.com/sumanmichael/), B151537, Dept. of CSE, Rajiv Gandhi University of Knowledge technologies, Basar.
